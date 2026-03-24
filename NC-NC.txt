@@ -1,0 +1,28 @@
+[Your Project Name] Non-Commercial & Non-Company License 2026
+
+Copyright (C) 2026 [Your Name]
+
+Permission is hereby granted, free of charge, to any individual or organization
+developing or distributing free and open-source software, to use, copy, modify, 
+and distribute this software, subject to the following conditions:
+
+1. **Personal & Open-Source Use Allowed**: 
+   You may freely use this software for personal purposes,
+   educational projects, or in open-source software projects and distributions.
+
+2. **No Company or Closed-Source Use**: 
+   Any company, organization, or entity that develops proprietary 
+   or closed-source software is strictly prohibited from using, selling, licensing, 
+   or redistributing this software, regardless of whether the source code is published or not.
+
+3. **Redistribution**: 
+   Redistribution of modified or unmodified versions is allowed only if it remains free of charge 
+   and under this same license.
+
+4. **Attribution**: 
+   Any redistribution must credit the original author [Your Name].
+
+5. **No Warranty**: 
+   The software is provided "as is", without warranty of any kind.
+
+Violation of these terms may result in legal action by the author.
